@@ -1,12 +1,11 @@
 {
-  "name": "task_0",
+  "name": "newyear-countdown",
   "version": "1.0.0",
+  "description": "A simple app to show the countdown to the new year",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "Древнее Зло",
+  "license": "ISC"
 }
